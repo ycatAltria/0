@@ -1,5 +1,5 @@
 {
-    "spider": "./pg.jar;md5;3749963534a676dbe5d90632034e8d7a",
+    "spider": "./pg.jar;md5;455093f5565faf9cebede3051cbeaa45",
     "sites": [
         {
             "key": "豆瓣",
@@ -497,6 +497,7 @@
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://t.me/$$$alyp_Animation,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,hao115,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,guaguale115,ZYFX2022,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"
         },
+        		{"key":"TGYunPan","name":"TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://127.0.0.1:9999/$$$alyp_Animation,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,hao115,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,guaguale115,ZYFX2022,wangpanziyuan2021,alyp_1,quanziyuanshe$$$noproxy$$$1"},
         {
             "key": "云星4K",
             "name": "云星4K|网盘",
