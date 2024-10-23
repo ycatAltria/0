@@ -25,7 +25,7 @@
 "thunder_vip_thread_limit":2,
 "thunder_flags":"4kz",
 "aliproxy":"",
-"aliproxy_url":"./aliproxy.tar.xz;md5;8e9df8116db117c3690e513666b7bdc5",
+"aliproxy_url":"./aliproxy.tar.xz;md5;e33b10e202795b1611d4ea69c01e3f3b",
 "proxy":"",
 "danmu":true,
 "quark_danmu":true,
@@ -76,7 +76,7 @@
 "pan115_auto_delete":true,
 "pan115_delete_code":"",
 "pan_order":"ali|quark|uc|115|yd|thunder|pikpak",
-"tgsearch_url":"./tgsearch;md5;a81a77591151044c09d9886a26e6051c",
+"tgsearch_url":"./tgsearch;md5;acd9c9794e3cfe840af6a44272f31c0f",
 "tgsearch_api_id":"",
 "tgsearch_api_hash":"",
 "tgsearch_api_session":"",
@@ -84,5 +84,5 @@
 "tgsearch_api_proxy":"proxy",
 "tgsearch_api_url":"http://127.0.0.1:10199/",
 "tgsearch_media_url":"http://127.0.0.1:10199/",
-"allinone_url":"./allinone.tar.xz;md5;967c592065e447f160aa4fad807d0623"
+"allinone_url":"./allinone.tar.xz;md5;6851cba5ca085d9479ab82dd379f00ea"
 }
