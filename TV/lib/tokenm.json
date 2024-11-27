@@ -76,7 +76,7 @@
 "pan115_auto_delete":true,
 "pan115_delete_code":"",
 "pan_order":"ali|quark|uc|115|yd|thunder|pikpak",
-"tgsearch_url":"./tgsearch.tar.xz",
+"tgsearch_url":"./tgsearch",
 "tgsearch_api_id":"",
 "tgsearch_api_hash":"",
 "tgsearch_api_session":"",
